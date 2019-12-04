@@ -1,6 +1,6 @@
-.facebook.com
-.discord.com
-.discordapp.gg
-.discordapp.com
-.discord.gg
-.discord.gift
+facebook.com
+discord.com
+discordapp.gg
+discordapp.com
+discord.gg
+discord.gift
